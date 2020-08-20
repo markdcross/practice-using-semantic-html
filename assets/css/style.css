@@ -72,7 +72,7 @@ main {
     margin-left: 20px;
 }
 
-main section {
+main article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -82,11 +82,11 @@ main section {
     color: #ffffff;
 }
 
-main section img {
+main article img {
     max-height: 200px;
 }
 
-main section h2 {
+main article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
